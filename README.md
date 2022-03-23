@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Justin J. Ramalho (@justinjramalho)
 - 👀 I’m interested in ____. (needs more thought/reflection; see line 4 below)
-- 🌱 I’m currently learning cybersecurity. 
+- 🌱 I’m currently learning full-stack software development, specializing cybersecurity. 
 - 💞️ I’m looking to collaborate on educational technologies that reverse-engineer academic structures to enhance transparency; I am focused on streamlining the 'business of education' and students' path to career, while automating soft-skills to create a community of entrepreneur-minded, independent young adults. 
 - 📫 How to reach me: justinjramalho@gmail.com (email) | @justinjramalho (social) 
 
@@ -33,4 +33,4 @@ justinjramalho/justinjramalho is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-Updated on 03/23/2022 (JJR, 5:35pm EST)
+Updated on 03/23/2022 (JJR, 5:55pm EST)
