@@ -2,17 +2,21 @@
 
 An Instructional UX Research & Design professional, with expertise in clinical healthcare and cybersecurity compliance, dedicated to crafting experiences that inspire innovative thinkers to become doers.  
 
-> #python3 #javascript #HTML5 #CSS3 #bootstrap4 #arduino #processing3 #p5.js #scratch  
-> #mysql #jquery #git #filezilla #sketch #coreldraw #tinkercad #cura #camtasia  
-> #jira #salesforce #tableau #slack #googleworkspace #microsoft365 #iwork  
+<!---
+// Perpetual student innovating education, healthcare & design. //  
+// Perpetual student dedicated to crafting experiences that inspire innovative thinkers to become doers. //  
+// Skilled researcher, independent thinker, and lunchtime webinar junkie 🤙 //  
+---> 
+
+> :octocat: #python3  #javascript  #HTML5  #CSS3  #bootstrap4  #arduino  #processing3  #p5.js  #scratch  
+> :toolbox: #mysql  #jquery  #git  #filezilla  #sketch  #coreldraw  #tinkercad  #cura  #camtasia  
+> :bowtie: #jira  #salesforce  #tableau  #slack  #googleworkspace  #microsoft365 #iwork  
+
 
 - 👀 I’m interested in web3 software development and blockchain compliance.  
 - 🌱 I’m currently learning web development (HTML 5, CSS3, JS), data science methodologies (Python 3), and cybersecurity compliance principles (OWASP Top 10).  
 - 💞 I’m looking to collaborate on educational technologies that reverse-engineer degree mapping and career-related academic structures to enhance pathway to career pipeline; I am focused on streamlining the 'business of education' and students' path to career, while automating soft-skills to create a community of entrepreneur-minded, independent young adults.  
 - 📫 How to reach me: <justinjramalho@gmail.com> | [@justinjramalho](https://www.beacons.ai/justinjramalho "Justin's Beacons Bio")  
-
-
-// Perpetual student dedicated to crafting experiences that inspire innovative thinkers to become doers. Skilled researcher, independent thinker, and lunchtime webinar junkie 🤙 //  
 
 
 #### My First Principles
