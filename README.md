@@ -63,5 +63,5 @@ You can click the Preview link to take a look at your changes.
 
 ![justinjramalho brand logo, created in Sketch.](https://drive.google.com/file/d/1UZM7p-oDmV_Ff82ghEOrJVl9IIRfys3v/view?usp=share_link "Click to view my portfolio.")  
 
-Copyright justinjramalho, SP.  All Rights Reserved.  
+Copyright &copy; justinjramalho, SP.  All Rights Reserved.  
 Revised on 11/05/2022 (JJR, 14:36pm EST).  
