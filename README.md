@@ -2,21 +2,14 @@
 
 An Instructional UX Designer and Perpetual Student, with a background in clinical healthcare and, dedicated to crafting experiences that inspire innovative thinkers to become doers.  
 An Instructional UX Research & Design professional, with expertise in clinical healthcare and experience in cybersecurity, dedicated to crafting experiences that inspire innovative thinkers to become doers.  
-#edtech
-> edtech
+> edtech > #instructionaldesign > #uxresearch > #uxdesign > #
 > #edtech
-> '#edtech'
+
 
 - 👀 I’m interested in web3 software development and blockchain compliance.  
 - 🌱 I’m currently learning web development (HTML 5, CSS3, JS), data science methodologies (Python 3), and cybersecurity compliance principles (OWASP Top 10).  
 - 💞 I’m looking to collaborate on educational technologies that reverse-engineer degree mapping and career-related academic structures to enhance pathway to career pipeline; I am focused on streamlining the 'business of education' and students' path to career, while automating soft-skills to create a community of entrepreneur-minded, independent young adults.  
 - 📫 How to reach me: <justinjramalho@gmail.com> | [@justinjramalho](https://www.beacons.ai/justinjramalho "Justin's Beacons Bio")  
-
-
-> 👀 I’m interested in web3 software development and blockchain compliance.  
-> 🌱 I’m currently learning web development (HTML 5, CSS3, JS), data science methodologies (Python 3), and cybersecurity compliance principles (OWASP Top 10).  
-> 💞 I’m looking to collaborate on educational technologies that reverse-engineer degree mapping and career-related academic structures to enhance pathway to career pipeline; I am focused on streamlining the 'business of education' and students' path to career, while automating soft-skills to create a community of entrepreneur-minded, independent young adults.  
-> 📫 How to reach me: <justinjramalho@gmail.com> | [@justinjramalho](https://www.beacons.ai/justinjramalho "Justin's Beacons Bio")  
 
 
 // Perpetual student dedicated to crafting experiences that inspire innovative thinkers to become doers. Skilled researcher, independent thinker, and lunchtime webinar junkie 🤙 //  
