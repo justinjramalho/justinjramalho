@@ -1,8 +1,6 @@
 👋 Hi, I’m Justin J. Ramalho  
 
-An Instructional UX Designer and Perpetual Student, with a background in clinical healthcare and, dedicated to crafting experiences that inspire innovative thinkers to become doers.  
-
-An Instructional UX Research & Design professional, with expertise in clinical healthcare and experience in cybersecurity, dedicated to crafting experiences that inspire innovative thinkers to become doers.  
+An Instructional UX Research & Design professional, with expertise in clinical healthcare and cybersecurity compliance, dedicated to crafting experiences that inspire innovative thinkers to become doers.  
 
 > #python3 #javascript #HTML5 #CSS3 #bootstrap4 #arduino #processing3 #p5.js #scratch  
 > #mysql #jquery #git #filezilla #sketch #coreldraw #tinkercad #cura #camtasia  
