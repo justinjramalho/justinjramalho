@@ -32,6 +32,7 @@ Words That I Will Never Be Able To Correctly Spell:
 justinjramalho/justinjramalho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![Alt text](https://drive.google.com/file/d/1UZM7p-oDmV_Ff82ghEOrJVl9IIRfys3v/view?usp=share_link "a title")
 
 Copyright justinjramalho, SP.  All Rights Reserved.<br>
 Revised on 11/05/2022 (JJR, 14:36pm EST)
