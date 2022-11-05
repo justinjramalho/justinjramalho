@@ -1,12 +1,11 @@
-👋 Hi, I’m Justin J. Ramalho (@justinjramalho)  
+👋 Hi, I’m Justin J. Ramalho  
 
 An Instructional UX Designer and Perpetual Student, with a background in clinical healthcare and, dedicated to crafting experiences that inspire innovative thinkers to become doers.  
-
-    👀 I’m interested in web3 software development and blockchain compliance.  
-    🌱 I’m currently learning web development (HTML 5, CSS3, JS), data science methodologies (Python 3), and cybersecurity compliance principles (OWASP Top 10).  
-    💞 I’m looking to collaborate on educational technologies that reverse-engineer degree mapping and career-related academic structures to enhance pathway to career pipeline; I am focused on streamlining the 'business of education' and students' path to career, while automating soft-skills to create a community of entrepreneur-minded, independent young adults.  
-    📫 How to reach me: <justinjramalho@gmail.com> | [@justinjramalho](https://www.beacons.ai/justinjramalho "Justin's Beacons Bio")  
-
+An Instructional UX Research & Design professional, with expertise in clinical healthcare and experience in cybersecurity, dedicated to crafting experiences that inspire innovative thinkers to become doers.  
+#edtech
+> edtech
+> #edtech
+> '#edtech'
 
 - 👀 I’m interested in web3 software development and blockchain compliance.  
 - 🌱 I’m currently learning web development (HTML 5, CSS3, JS), data science methodologies (Python 3), and cybersecurity compliance principles (OWASP Top 10).  
@@ -14,10 +13,10 @@ An Instructional UX Designer and Perpetual Student, with a background in clinica
 - 📫 How to reach me: <justinjramalho@gmail.com> | [@justinjramalho](https://www.beacons.ai/justinjramalho "Justin's Beacons Bio")  
 
 
-👀 I’m interested in web3 software development and blockchain compliance.  
-🌱 I’m currently learning web development (HTML 5, CSS3, JS), data science methodologies (Python 3), and cybersecurity compliance principles (OWASP Top 10).  
-💞 I’m looking to collaborate on educational technologies that reverse-engineer degree mapping and career-related academic structures to enhance pathway to career pipeline; I am focused on streamlining the 'business of education' and students' path to career, while automating soft-skills to create a community of entrepreneur-minded, independent young adults.  
-📫 How to reach me: <justinjramalho@gmail.com> | [@justinjramalho](https://www.beacons.ai/justinjramalho "Justin's Beacons Bio")  
+> 👀 I’m interested in web3 software development and blockchain compliance.  
+> 🌱 I’m currently learning web development (HTML 5, CSS3, JS), data science methodologies (Python 3), and cybersecurity compliance principles (OWASP Top 10).  
+> 💞 I’m looking to collaborate on educational technologies that reverse-engineer degree mapping and career-related academic structures to enhance pathway to career pipeline; I am focused on streamlining the 'business of education' and students' path to career, while automating soft-skills to create a community of entrepreneur-minded, independent young adults.  
+> 📫 How to reach me: <justinjramalho@gmail.com> | [@justinjramalho](https://www.beacons.ai/justinjramalho "Justin's Beacons Bio")  
 
 
 // Perpetual student dedicated to crafting experiences that inspire innovative thinkers to become doers. Skilled researcher, independent thinker, and lunchtime webinar junkie 🤙 //  
@@ -67,7 +66,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-![justinjramalho brand logo, created in Sketch.](https://drive.google.com/file/d/1UZM7p-oDmV_Ff82ghEOrJVl9IIRfys3v/view?usp=share_link "The justinjramalho brand logo, created in Sketch.")
+![justinjramalho brand logo, created in Sketch.](https://drive.google.com/file/d/1UZM7p-oDmV_Ff82ghEOrJVl9IIRfys3v/view?usp=share_link "Click to view my portfolio.")  
 
 Copyright justinjramalho, SP.  All Rights Reserved.  
-Revised on 11/05/2022 (JJR, 14:36pm EST). 
+Revised on 11/05/2022 (JJR, 14:36pm EST).  
