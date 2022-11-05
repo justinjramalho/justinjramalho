@@ -33,5 +33,5 @@ justinjramalho/justinjramalho is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-Copyright justinjramalho, SP.  All Rights Reserved.
+Copyright justinjramalho, SP.  All Rights Reserved.<br>
 Revised on 11/05/2022 (JJR, 14:36pm EST)
