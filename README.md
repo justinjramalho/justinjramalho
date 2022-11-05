@@ -20,6 +20,11 @@ An Instructional UX Research & Design professional, with expertise in clinical h
 - 📫 How to reach me: <justinjramalho@gmail.com> | [@justinjramalho](https://www.beacons.ai/justinjramalho "Justin's Beacons Bio")  
 
 
+> #python3  #javascript  #HTML5  #CSS3  #bootstrap4  #arduino  #processing3  #p5.js  #scratch  
+> #mysql  #jquery  #git  #filezilla  #sketch  #coreldraw  #tinkercad  #cura  #camtasia  
+> #jira  #salesforce  #tableau  #slack  #googleworkspace  #microsoft365 #iwork  
+
+
 #### My First Principles
 
 ###### What I’ve learned from my life experiences in… 
@@ -58,7 +63,7 @@ Words That I Will Never Be Able To Correctly Spell:
 --->
 
 
-Don't hesitate to view my [portfolio](https://www.justinjramalho.com/ "Click to view my portfolio.") if you'd like to collaborate – I am constantly iterating the projects you see!  
+Don't hesitate to reach out if you'd like to collaborate – I am constantly iterating the projects you'll see on my [portfolio](https://www.justinjramalho.com/ "Click to view my portfolio.")!  
 
 All the best,  
 Justin J Ramalho  
