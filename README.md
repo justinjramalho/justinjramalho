@@ -58,7 +58,7 @@ Words That I Will Never Be Able To Correctly Spell:
 --->
 
 
-Don't hesitate to view my [portfolio](https://www.justinjramalho.com/ "Click to view my portfolio.") if you would like to collab!
+Don't hesitate to view my [portfolio](https://www.justinjramalho.com/ "Click to view my portfolio.") if you'd like to collaborate – I am constantly iterating the projects you see!  
 
 All the best,  
 Justin J Ramalho  
