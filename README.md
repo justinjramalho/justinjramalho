@@ -1,4 +1,7 @@
 - 👋 Hi, I’m Justin J. Ramalho (@justinjramalho) 
+
+An Instructional UX Designer and Perpetual Student with a background in clinical healthcare dedicated to crafting experiences that inspire innovative thinkers to become doers.  
+
 - 👀 I’m interested in web3 software development and blockchain compliance.  
 - 🌱 I’m currently learning web development (HTML 5, CSS3, JS), data science methodologies (Python 3), and cybersecurity compliance principles (OWASP Top 10).  
 - 💞️ I’m looking to collaborate on educational technologies that reverse-engineer degree mapping and career-related academic structures to enhance pathway to career pipeline; I am focused on streamlining the 'business of education' and students' path to career, while automating soft-skills to create a community of entrepreneur-minded, independent young adults.  
@@ -32,7 +35,8 @@ Words That I Will Never Be Able To Correctly Spell:
 justinjramalho/justinjramalho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Alt text](https://drive.google.com/file/d/1UZM7p-oDmV_Ff82ghEOrJVl9IIRfys3v/view?usp=share_link "a title")
+
+![Justin J Ramalho's Portfolio Logo, created in Sketch](https://drive.google.com/file/d/1UZM7p-oDmV_Ff82ghEOrJVl9IIRfys3v/view?usp=share_link "Justin J Ramalho's Portfolio Logo, created in Sketch")
 
 Copyright justinjramalho, SP.  All Rights Reserved.<br>
 Revised on 11/05/2022 (JJR, 14:36pm EST)
