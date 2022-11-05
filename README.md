@@ -14,7 +14,7 @@ An Instructional UX Research & Design professional, with expertise in clinical h
 > :bowtie:**:**  #jira  #salesforce  #tableau  #slack  #googleworkspace  #microsoft365 #iwork  
 
 
-- 👀 I’m interested in web3 software development and blockchain compliance.  
+- 👀 I’m interested in AR, VR, and web3 software development as well as blockchain compliance.  
 - 🌱 I’m currently learning web development (HTML 5, CSS3, JS), data science methodologies (Python 3), and cybersecurity compliance principles (OWASP Top 10).  
 - 💞 I’m looking to collaborate on educational technologies that reverse-engineer degree mapping and career-related academic structures to enhance pathway to career pipeline; I am focused on streamlining the 'business of education' and students' path to career, while automating soft-skills to create a community of entrepreneur-minded, independent young adults.  
 - 📫 How to reach me: <justinjramalho@gmail.com> | [@justinjramalho](https://www.beacons.ai/justinjramalho "Justin's Beacons Bio")  
@@ -58,13 +58,14 @@ Words That I Will Never Be Able To Correctly Spell:
 --->
 
 
-
+Don't hesitate to view my [portfolio](https://www.justinjramalho.com/ "Click to view my portfolio.") if you would like to collab!
 
 All the best,  
 Justin J Ramalho  
+<https://justinjramalho.com>
 
 
-![justinjramalho brand logo, created in Sketch.](https://github.com/justinjramalho/justinjramalho/blob/93d26e82260b963ca61d2337b515f4b24c22203f/JustinjRamalho_Logo_500x200-slim.png "Click to view my portfolio.")  
+![justinjramalho brand logo, created in Sketch.](https://github.com/justinjramalho/justinjramalho/blob/e86f7a68eaa8cd6a9700ec548517f7bbe7c1cb81/JustinjRamalho_Logo_500x200-removebg.png "Click to view my portfolio.")  
 
 
 Copyright &copy; justinjramalho, SP.  All Rights Reserved.  
