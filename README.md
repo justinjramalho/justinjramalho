@@ -58,13 +58,18 @@ Words That I Will Never Be Able To Correctly Spell:
 --->
 
 
-<!---
-justinjramalho/justinjramalho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+All the best,  
+Justin J Ramalho  
 
 
 ![justinjramalho brand logo, created in Sketch.](https://github.com/justinjramalho/justinjramalho/blob/93d26e82260b963ca61d2337b515f4b24c22203f/JustinjRamalho_Logo_500x200-slim.png "Click to view my portfolio.")  
 
+
 Copyright &copy; justinjramalho, SP.  All Rights Reserved.  
 Revised on 11/05/2022 (JJR, 19:10pm EST).  
+
+
+<!---justinjramalho/justinjramalho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.--->  
