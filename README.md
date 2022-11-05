@@ -9,9 +9,9 @@ An Instructional UX Research & Design professional, with expertise in clinical h
 ---> 
 
 
-> :octocat:**:**  #python3  #javascript  #HTML5  #CSS3  #bootstrap4  #arduino  #processing3  #p5.js  #scratch  
-> :toolbox:**:**  #mysql  #jquery  #git  #filezilla  #sketch  #coreldraw  #tinkercad  #cura  #camtasia  
-> :bowtie:**:**  #jira  #salesforce  #tableau  #slack  #googleworkspace  #microsoft365 #iwork  
+> #python3  #javascript  #HTML5  #CSS3  #bootstrap4  #arduino  #processing3  #p5.js  #scratch  
+> #mysql  #jquery  #git  #filezilla  #sketch  #coreldraw  #tinkercad  #cura  #camtasia  
+> #jira  #salesforce  #tableau  #slack  #googleworkspace  #microsoft365 #iwork  
 
 
 - 👀 I’m interested in AR, VR, and web3 software development as well as blockchain compliance.  
