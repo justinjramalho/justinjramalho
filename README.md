@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Justin J. Ramalho (@justinjramalho)
-- 👀 I’m interested in ____. (needs more thought/reflection; see line 4 below)
-- 🌱 I’m currently learning full-stack software development, specializing cybersecurity. 
-- 💞️ I’m looking to collaborate on educational technologies that reverse-engineer academic structures to enhance transparency; I am focused on streamlining the 'business of education' and students' path to career, while automating soft-skills to create a community of entrepreneur-minded, independent young adults. 
+- 👋 Hi, I’m Justin J. Ramalho (@justinjramalho) 
+- 👀 I’m interested in web3 software development and blockchain compliance.  
+- 🌱 I’m currently learning web development (HTML 5, CSS3, JS), data science methodologies (Python 3), and cybersecurity compliance principles (OWASP Top 10).  
+- 💞️ I’m looking to collaborate on educational technologies that reverse-engineer degree mapping and career-related academic structures to enhance pathway to career pipeline; I am focused on streamlining the 'business of education' and students' path to career, while automating soft-skills to create a community of entrepreneur-minded, independent young adults.  
 - 📫 How to reach me: justinjramalho@gmail.com (email) | @justinjramalho (social) 
 
 // Perpetual student dedicated to crafting experiences that inspire innovative thinkers to become doers. Skilled researcher, independent thinker, and lunchtime webinar junkie 🤙 //
@@ -33,4 +33,5 @@ justinjramalho/justinjramalho is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-Updated on 03/23/2022 (JJR, 5:55pm EST)
+Copyright justinjramalho, SP.  All Rights Reserved.
+Revised on 11/05/2022 (JJR, 14:36pm EST)
