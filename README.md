@@ -10,16 +10,16 @@ An Instructional UX Designer and Perpetual Student with a background in clinical
 // Perpetual student dedicated to crafting experiences that inspire innovative thinkers to become doers. Skilled researcher, independent thinker, and lunchtime webinar junkie 🤙 //
 
 
-My First Principles 
-What I’ve learned from my life experiences in…   
-– Relationships.  You miss 💯 of the shots you don’t take.  
-– Law.  Life is not fair.  If you don’t ask, you won’t get.  
-– Healthcare.  Individualism of care saves lives.  
-– Research.  If it doesn’t consider environment, it’s unreliable.  
-– Education.  Choice increases engagement.  
-– Design.  Good design is a lot harder to notice than poor design.  
-– Security.  99% of attacks are done using known exploits.  
-– Engineering.  Always start with first principles.  
+#### My First Principles
+###### What I’ve learned from my life experiences in… 
+- Relationships.  You miss 💯 of the shots you don’t take.  
+- Law.  Life is not fair.  If you don’t ask, you won’t get.  
+- Healthcare.  Individualism of care saves lives.  
+- Research.  If it doesn’t consider environment, it’s unreliable.  
+- Education.  Choice increases engagement.  
+- Design.  Good design is a lot harder to notice than poor design.  
+- Security.  99% of attacks are done using known exploits.  
+- Engineering.  Always start with first principles.  
 
 
 <!---
