@@ -58,7 +58,7 @@ Words That I Will Never Be Able To Correctly Spell:
 --->
 
 
-Don't hesitate to reach out if you'd like to collaborate – I am constantly iterating the projects you'll see on my [portfolio](https://www.justinjramalho.com/ "Click to view my portfolio.")!  
+Don't hesitate to reach out if you'd like to collaborate – I am constantly iterating the projects you see on my [portfolio](https://www.justinjramalho.com/ "Click to view my portfolio.")!  
 
 All the best,  
 Justin J Ramalho  
