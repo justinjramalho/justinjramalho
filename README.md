@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Justin J. Ramalho (@justinjramalho) 
+👋 Hi, I’m Justin J. Ramalho (@justinjramalho) 
 
 An Instructional UX Designer and Perpetual Student with a background in clinical healthcare dedicated to crafting experiences that inspire innovative thinkers to become doers.  
 
@@ -9,6 +9,20 @@ An Instructional UX Designer and Perpetual Student with a background in clinical
 
 // Perpetual student dedicated to crafting experiences that inspire innovative thinkers to become doers. Skilled researcher, independent thinker, and lunchtime webinar junkie 🤙 //
 
+
+My First Principles 
+What I’ve learned from my life experiences in…   
+– Relationships.  You miss 💯 of the shots you don’t take.  
+– Law.  Life is not fair.  If you don’t ask, you won’t get.  
+– Healthcare.  Individualism of care saves lives.  
+– Research.  If it doesn’t consider environment, it’s unreliable.  
+– Education.  Choice increases engagement.  
+– Design.  Good design is a lot harder to notice than poor design.  
+– Security.  99% of attacks are done using known exploits.  
+– Engineering.  Always start with first principles.  
+
+
+<!---
 Buzz Words That I Do Not Yet Totally Dispise:
 - transparency 
 - collaboration (...flirting with the line) 
@@ -29,12 +43,14 @@ Commonly Used Words: (stemming from my medical background)
 Words That I Will Never Be Able To Correctly Spell:
 - bureaucracy
 - entrepreneur
+--->
 
 
 <!---
 justinjramalho/justinjramalho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
 
 ![Justin J Ramalho's Portfolio Logo, created in Sketch](https://drive.google.com/file/d/1UZM7p-oDmV_Ff82ghEOrJVl9IIRfys3v/view?usp=share_link "Justin J Ramalho's Portfolio Logo, created in Sketch")
 
