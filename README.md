@@ -63,7 +63,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-![justinjramalho brand logo, created in Sketch.](https://drive.google.com/file/d/1UZM7p-oDmV_Ff82ghEOrJVl9IIRfys3v/view?usp=share_link "Click to view my portfolio.")  
+![justinjramalho brand logo, created in Sketch.](https://github.com/justinjramalho/justinjramalho/blob/93d26e82260b963ca61d2337b515f4b24c22203f/JustinjRamalho_Logo_500x200-slim.png "Click to view my portfolio.")  
 
 Copyright &copy; justinjramalho, SP.  All Rights Reserved.  
 Revised on 11/05/2022 (JJR, 14:36pm EST).  
