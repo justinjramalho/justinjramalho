@@ -30,7 +30,7 @@ An Instructional UX Research & Design professional, with expertise in clinical h
 - **Research.**  If it doesn’t consider environment, it’s unreliable.  
 - **Education.**  Choice increases engagement.  
 - **Design.**  Good design is a lot harder to notice than poor design.  
-- **Security.**  99% of attacks are done using known exploits.  
+- **Security.**  99% of attacks are executed using known exploits.  
 - **Engineering.**  Always start with first principles.  
 
 
