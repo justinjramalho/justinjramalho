@@ -69,7 +69,7 @@ Justin J Ramalho
 
 
 Copyright &copy; justinjramalho, SP.  All Rights Reserved.  
-Revised on 11/05/2022 (JJR, 19:10pm EST).  
+Revised on 11/05/2022.  
 
 
 <!---justinjramalho/justinjramalho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
