@@ -28,7 +28,7 @@ An Instructional UX Research & Design professional, with expertise in clinical h
 - **Law.**  Life is not fair.  If you don’t ask, you won’t get.  
 - **Healthcare.**  Individualism of care saves lives.  
 - **Research.**  If it doesn’t consider environment, it’s unreliable.  
-- **Education.**  Choice increases engagement.  
+- **Education.**  Providing choice(s) increases engagement.  
 - **Design.**  Good design is a lot harder to notice than poor design.  
 - **Security.**  99% of attacks are executed using known exploits.  
 - **Engineering.**  Always start with first principles.  
