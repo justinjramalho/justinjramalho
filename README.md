@@ -16,8 +16,9 @@ An Instructional UX Research & Design professional, with expertise in clinical h
 
 
 > #python3  #javascript  #HTML5  #CSS3  #bootstrap4  #arduino  #processing3  #p5.js  #scratch  
-> #mysql  #jquery  #git  #filezilla  #sketch  #coreldraw  #tinkercad  #cura  #camtasia  
-> #jira  #salesforce  #tableau  #slack  #googleworkspace  #microsoft365 #iwork  
+> #node.js  #mysql/sql  #JSON  #jquery  #github/git  #filezilla/ftp  
+> #sketch  #coreldraw  #tinkercad  #cura  #camtasia  #adobefresco  
+> #jira  #salesforce  #notion  #wrike  #tableau  #slack  #googleworkspace  #microsoft365 #iwork  
 
 
 #### My First Principles
