@@ -14,10 +14,9 @@ An Instructional UX Research & Design professional, with expertise in clinical h
 - 💞 I’m looking to collaborate on educational technologies that reverse-engineer degree mapping and career-related academic structures to enhance pathway to career pipeline; I am focused on streamlining the 'business of education' and students' path to career, while automating soft-skills to create a community of entrepreneur-minded, independent young adults.  
 - 📫 How to reach me: <justinjramalho@gmail.com> | [@justinjramalho](https://www.beacons.ai/justinjramalho "Click to view my bio")  
 
+ 
 
-&nbsp;\n
- 
- 
+
 > 🔨 [**Tools Stack**](https://justinjramalho.notion.site/Tools-Stack-263bdbcc0dbe4ae4a9d2b48fa3a056fb)  
 > #python3  #javascript  #HTML5  #CSS3  #bootstrap4  #arduino  #processing3  #p5.js  #scratch  
 > #node.js  #mysql/sql  #JSON  #jquery  #github/git  #filezilla/ftp  
@@ -25,7 +24,6 @@ An Instructional UX Research & Design professional, with expertise in clinical h
 > #jira  #salesforce  #notion  #wrike  #tableau  #slack  #googleworkspace  #microsoft365 #iwork  
 
 
-&nbsp;\
 
 
 #### My First Principles  
