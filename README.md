@@ -15,7 +15,7 @@ An Instructional UX Research & Design professional, with expertise in clinical h
 - 📫 How to reach me: <justinjramalho@gmail.com> | [@justinjramalho](https://www.beacons.ai/justinjramalho "Click to view my bio")  
 
 
- \
+ \n
  
  
 > 🔨 [**Tools Stack**](https://justinjramalho.notion.site/Tools-Stack-263bdbcc0dbe4ae4a9d2b48fa3a056fb)  
@@ -25,7 +25,7 @@ An Instructional UX Research & Design professional, with expertise in clinical h
 > #jira  #salesforce  #notion  #wrike  #tableau  #slack  #googleworkspace  #microsoft365 #iwork  
 
 
- \
+ \n
 
 
 #### My First Principles  
