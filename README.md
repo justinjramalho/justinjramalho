@@ -15,6 +15,9 @@ An Instructional UX Research & Design professional, with expertise in clinical h
 - 📫 How to reach me: <justinjramalho@gmail.com> | [@justinjramalho](https://www.beacons.ai/justinjramalho "Click to view my bio")  
 
 
+
+
+🔨 [**Tools Stack**](https://justinjramalho.notion.site/Tools-Stack-263bdbcc0dbe4ae4a9d2b48fa3a056fb)
 > #python3  #javascript  #HTML5  #CSS3  #bootstrap4  #arduino  #processing3  #p5.js  #scratch  
 > #node.js  #mysql/sql  #JSON  #jquery  #github/git  #filezilla/ftp  
 > #sketch  #coreldraw  #tinkercad  #cura  #camtasia  #adobefresco  
@@ -22,7 +25,9 @@ An Instructional UX Research & Design professional, with expertise in clinical h
 🔨 [Tools Stack](https://justinjramalho.notion.site/Tools-Stack-263bdbcc0dbe4ae4a9d2b48fa3a056fb)
 
 
-#### My First Principles
+
+
+#### My First Principles  
 
 ###### What I’ve learned from my life experiences in… 
 
