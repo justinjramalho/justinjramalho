@@ -25,7 +25,7 @@ An Instructional UX Research & Design professional, with expertise in clinical h
 ###### What I’ve learned from my life experiences in… 
 
 - **Relationships.**  You miss 💯 of the shots you don’t take.  
-- **Law.**  Life is not fair.  If you don’t ask, you won’t get.  
+- **Law.**  Life is not fair.  If you don’t ask, you can’t get.  
 - **Healthcare.**  Individualism of care saves lives.  
 - **Research.**  If it doesn’t consider environment, it’s unreliable.  
 - **Education.**  Providing choice(s) increases engagement.  
