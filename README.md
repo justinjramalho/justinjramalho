@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Justin J. Ramalho  
 
-An Educator, Technologist, and UX R&D professional, with expertise in clinical reasoning and cybersecurity compliance, dedicated to crafting experiences that inspire innovative thinkers to become doers.  
+An Educator, Technologist, and UX Research & Design (R&D) professional, with expertise in clinical reasoning and cybersecurity compliance, dedicated to crafting experiences that inspire innovative thinkers to become doers.  
 
 
 <!---
@@ -16,7 +16,7 @@ An Educator, Technologist, and UX R&D professional, with expertise in clinical r
 - 📫 How to reach me: <justinjramalho@gmail.com> | [@justinjramalho](https://www.beacons.ai/justinjramalho "Click to view my bio")  
 
 
-## My Tools Stack
+### My Tools Stack
 
 > #python3  #javascript  #HTML5  #CSS3  #bootstrap4  #arduino  #processing3  #p5.js  #scratch  
 > #node.js  #mysql/sql  #JSON  #jquery  #github/git  #filezilla/ftp  
@@ -26,7 +26,7 @@ An Educator, Technologist, and UX R&D professional, with expertise in clinical r
 > 🔨 [**Tools Stack**](https://justinjramalho.notion.site/Tools-Stack-263bdbcc0dbe4ae4a9d2b48fa3a056fb)  
 
 
-#### My First Principles  
+### My First Principles  
 
 ###### What I’ve learned from my life experiences in… 
 
