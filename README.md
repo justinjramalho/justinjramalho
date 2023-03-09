@@ -1,6 +1,7 @@
-👋 Hi, I’m Justin J. Ramalho  
+# 👋 Hi, I’m Justin J. Ramalho  
 
-An Instructional UX Research & Design professional, with expertise in clinical healthcare and cybersecurity compliance, dedicated to crafting experiences that inspire innovative thinkers to become doers.  
+An Educator, Technologist, and UX R&D professional, with expertise in clinical reasoning and cybersecurity compliance, dedicated to crafting experiences that inspire innovative thinkers to become doers.  
+
 
 <!---
 // Perpetual student innovating education, healthcare & design. //  
@@ -10,24 +11,19 @@ An Instructional UX Research & Design professional, with expertise in clinical h
 
 
 - 👀 I’m interested in AR, VR, and web3 software development as well as blockchain compliance.  
-- 🌱 I’m currently learning web development (HTML5, CSS3, JS), data science methodologies (Python 3), and cybersecurity compliance principles (OWASP Top 10).  
+- 🌱 I’m currently learning web development (JS, HTML5, CSS3), data science methodologies (Python 3), and cybersecurity compliance principles (OWASP Top 10).  
 - 💞 I’m looking to collaborate on educational technologies that reverse-engineer degree mapping and career-related academic structures to enhance pathway to career pipeline; I am focused on streamlining the 'business of education' and students' path to career, while automating soft-skills to create a community of entrepreneur-minded, independent young adults.  
 - 📫 How to reach me: <justinjramalho@gmail.com> | [@justinjramalho](https://www.beacons.ai/justinjramalho "Click to view my bio")  
 
- 
 
+## My Tools Stack
 
-> 
 > #python3  #javascript  #HTML5  #CSS3  #bootstrap4  #arduino  #processing3  #p5.js  #scratch  
 > #node.js  #mysql/sql  #JSON  #jquery  #github/git  #filezilla/ftp  
 > #sketch  #coreldraw  #tinkercad  #cura  #camtasia  #adobefresco  
 > #jira  #salesforce  #notion  #wrike  #tableau  #slack  #googleworkspace  #microsoft365 #iwork  
 > 
-> 🔨 [**My Tools Stack**](https://justinjramalho.notion.site/Tools-Stack-263bdbcc0dbe4ae4a9d2b48fa3a056fb)  
-> 
-
-
-
+> 🔨 [**Tools Stack**](https://justinjramalho.notion.site/Tools-Stack-263bdbcc0dbe4ae4a9d2b48fa3a056fb)  
 
 
 #### My First Principles  
@@ -52,7 +48,6 @@ Buzz Words That I Do Not Yet Totally Dispise:
 - advocate 
 - affordances & constraints 
 
-
 Commonly Used Words: (stemming from my medical background) 
 - schema 
 - cognitive 
@@ -60,7 +55,6 @@ Commonly Used Words: (stemming from my medical background)
 - diagnose (diagnosis) 
 - affordance(s) 
 - constraint(s) 
-
 
 Words That I Will Never Be Able To Correctly Spell:
 - bureaucracy
@@ -79,8 +73,10 @@ Justin J Ramalho
 
 
 Copyright &copy; justinjramalho, SP.  All Rights Reserved.  
-Revised on 11/05/2022.  
+Revised on 03/2023.  
+
+
 
 
 <!---justinjramalho/justinjramalho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.--->  
+You can click the Preview link to take a look at your changes.--->
