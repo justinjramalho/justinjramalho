@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Justin J. Ramalho  
 
-An Educator, Technologist, and UX Research & Design (R&D) professional, with expertise in clinical reasoning and cybersecurity compliance, dedicated to crafting experiences that inspire innovative thinkers to become doers.  
+An Educator, Technologist, and UX Research & Design professional, with expertise in clinical reasoning and cybersecurity compliance, dedicated to crafting experiences that inspire innovative thinkers to become doers.  
 
 
 <!---
@@ -10,9 +10,9 @@ An Educator, Technologist, and UX Research & Design (R&D) professional, with exp
 ---> 
 
 
-- 👀 I’m interested in AR, VR, and web3 software development as well as blockchain compliance.  
-- 🌱 I’m currently learning web development (JS, HTML5, CSS3), data science methodologies (Python 3), and cybersecurity compliance principles (OWASP Top 10).  
-- 💞 I’m looking to collaborate on educational technologies that reverse-engineer degree mapping and career-related academic structures to enhance pathway to career pipeline; I am focused on streamlining the 'business of education' and students' path to career, while automating soft-skills to create a community of entrepreneur-minded, independent young adults.  
+- 👀 I’m interested in AI, AR / VR, blockchain compliance and web3 software development.  
+- 🌱 I’m currently learning web development (JS, HTML5, CSS3), tinkering with app development (Swift 5), researching data science methodologies (Python 3) and teaching cybersecurity compliance principles (OWASP Top 10).  
+- 💞 I’m looking to collaborate on educational technologies that utilizes AI to democratize academic structures for students (reverse-engineer degree mapping and career-related academic structures to enhance pathway to career pipeline); I am focused on streamlining the business-of-education and students' path to career.  
 - 📫 How to reach me: <justinjramalho@gmail.com> | [@justinjramalho](https://www.beacons.ai/justinjramalho "Click to view my bio")  
 
 
@@ -73,7 +73,7 @@ Justin J Ramalho
 
 
 Copyright &copy; justinjramalho, SP.  All Rights Reserved.  
-Revised on 03/2023.  
+Revised on 02/2022.  
 
 
 
