@@ -23,6 +23,10 @@ An Instructional UX Research & Design professional, with expertise in clinical h
 > #node.js  #mysql/sql  #JSON  #jquery  #github/git  #filezilla/ftp  
 > #sketch  #coreldraw  #tinkercad  #cura  #camtasia  #adobefresco  
 > #jira  #salesforce  #notion  #wrike  #tableau  #slack  #googleworkspace  #microsoft365 #iwork  
+> 
+> 🔨 [**My Tools Stack**](https://justinjramalho.notion.site/Tools-Stack-263bdbcc0dbe4ae4a9d2b48fa3a056fb)  
+> 
+
 
 
 
