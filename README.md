@@ -17,7 +17,6 @@ An Instructional UX Research & Design professional, with expertise in clinical h
  
 
 
-> 🔨 [**My Tools Stack**](https://justinjramalho.notion.site/Tools-Stack-263bdbcc0dbe4ae4a9d2b48fa3a056fb)  
 > 
 > #python3  #javascript  #HTML5  #CSS3  #bootstrap4  #arduino  #processing3  #p5.js  #scratch  
 > #node.js  #mysql/sql  #JSON  #jquery  #github/git  #filezilla/ftp  
