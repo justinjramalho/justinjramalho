@@ -16,7 +16,7 @@ An Educator, Technologist, and UX Research & Design professional, with expertise
 - 📫 How to reach me: <justinjramalho@gmail.com> | [@justinjramalho](https://www.beacons.ai/justinjramalho "Click to view my bio")  
 
 
-### My Tools Stack
+### Tools Stack
 
 > #python3  #javascript  #HTML5  #CSS3  #bootstrap4  #arduino  #processing3  #p5.js  #scratch  
 > #node.js  #mysql/sql  #JSON  #jquery  #github/git  #filezilla/ftp  
@@ -26,7 +26,7 @@ An Educator, Technologist, and UX Research & Design professional, with expertise
 > 🔨 [**Tools Stack**](https://justinjramalho.notion.site/Tools-Stack-263bdbcc0dbe4ae4a9d2b48fa3a056fb)  
 
 
-### My First Principles  
+### First Principles  
 
 ###### What I’ve learned from my life experiences in… 
 
