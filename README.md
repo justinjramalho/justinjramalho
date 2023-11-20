@@ -34,7 +34,7 @@ An Educator, Technologist, and UX Research & Design professional, with expertise
 - **Law.**  Life is not fair.  If you don’t ask, you can’t get.  
 - **Healthcare.**  Individualism of care saves lives.  
 - **Research.**  If it doesn’t consider environment, it’s unreliable.  
-- **Education.**  Providing choice(s) increases engagement.  
+- **Education.**  Choice increases engagement.  
 - **Design.**  Good design is a lot harder to notice than poor design.  
 - **Security.**  99% of attacks are executed using known exploits.  
 - **Engineering.**  Always start with first principles.  
@@ -66,14 +66,14 @@ Don't hesitate to reach out if you'd like to collaborate – I am constantly it
 
 All the best,  
 Justin J Ramalho  
-<https://justinjramalho.com>
+<https://beacons.ai/justinjramalho>
 
 
 [![justinjramalho brand logo, created in Sketch.](https://github.com/justinjramalho/justinjramalho/blob/e86f7a68eaa8cd6a9700ec548517f7bbe7c1cb81/JustinjRamalho_Logo_500x200-removebg.png "Click to view my portfolio.")](https://www.justinjramalho.com/ "Click to view my portfolio.")  
 
 
 Copyright &copy; justinjramalho, SP.  All Rights Reserved.  
-Revised on 02/2022.  
+Revised on 11/2023.  
 
 
 
