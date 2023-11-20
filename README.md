@@ -1,9 +1,10 @@
 # 👋 Hi, I’m Justin J. Ramalho  
 
-An Educator, Technologist, and UX Research & Design professional, with expertise in clinical reasoning and cybersecurity compliance, dedicated to crafting experiences that inspire innovative thinkers to become doers.  
+An Educational Technologist, Web Developer, and UX Research & Design professional, with expertise in clinical reasoning and cybersecurity compliance, dedicated to crafting experiences that inspire innovative thinkers to become doers.  
 
 
 <!---
+// Educational Technologist | Strategist, Facilitator, Innovator | Science Literacy //
 // Perpetual student innovating education, healthcare & design. //  
 // Perpetual student dedicated to crafting experiences that inspire innovative thinkers to become doers. //  
 // Skilled researcher, independent thinker, and lunchtime webinar junkie 🤙 //  
@@ -66,7 +67,7 @@ Don't hesitate to reach out if you'd like to collaborate – I am constantly it
 
 All the best,  
 Justin J Ramalho  
-<https://beacons.ai/justinjramalho>
+📅 [Schedule a Meeting](https://beacons.ai/justinjramalho "Click to schedule a meeting!")
 
 
 [![justinjramalho brand logo, created in Sketch.](https://github.com/justinjramalho/justinjramalho/blob/e86f7a68eaa8cd6a9700ec548517f7bbe7c1cb81/JustinjRamalho_Logo_500x200-removebg.png "Click to view my portfolio.")](https://www.justinjramalho.com/ "Click to view my portfolio.")  
